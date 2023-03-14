@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\RPG Project\RPG Project\bin\Debug\RPG Project.exe.config
+C:\Users\PC\Desktop\RPG Project\RPG Project\bin\Debug\RPG Project.exe
+C:\Users\PC\Desktop\RPG Project\RPG Project\bin\Debug\RPG Project.pdb
+C:\Users\PC\Desktop\RPG Project\RPG Project\obj\Debug\RPG Project.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\RPG Project\RPG Project\obj\Debug\RPG_Project.Properties.Resources.resources
+C:\Users\PC\Desktop\RPG Project\RPG Project\obj\Debug\RPG Project.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\RPG Project\RPG Project\obj\Debug\RPG Project.exe
+C:\Users\PC\Desktop\RPG Project\RPG Project\obj\Debug\RPG Project.pdb
+C:\Users\PC\Desktop\RPG Project\RPG Project\obj\Debug\RPG_Project.FormRpg.resources
+C:\Users\PC\Desktop\RPG Project\RPG Project\obj\Debug\RPG_Project.FormPrincipal.resources
+C:\Users\PC\Desktop\RPG Project\RPG Project\obj\Debug\RPG_Project.FormSplash.resources
+C:\Users\PC\Desktop\RPG Project\RPG Project\obj\Debug\RPG_Project.AboutBox1.resources
